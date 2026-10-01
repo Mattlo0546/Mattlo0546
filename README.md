@@ -2,6 +2,8 @@
 
 AI student at the **University of Bristol**. I build products end to end, from deterministic engines and data pipelines to native apps and fun weekend projects, and I ship them.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mattlo0546-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattlo0546/)
+
 ## Featured work
 
 | Project | What it is | Stack |
