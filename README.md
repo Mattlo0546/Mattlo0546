@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
 
-AI student at the **University of Bristol**. I build products end to end, from deterministic engines and data pipelines to native apps and agent infrastructure, and I ship them.
+AI student at the **University of Bristol**. I build products end to end, from deterministic engines and data pipelines to native apps and fun weekend projects, and I ship them.
 
 ## Featured work
 
