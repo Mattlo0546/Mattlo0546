@@ -6,7 +6,7 @@ AI student at the **University of Bristol**. I build products end to end, from d
 
 > 🏆 **1st place @ OpenAI DevDay Exchange Community Hackathon, London · 1,000+ applicants.**
 >
-> [**Morpheus**](https://github.com/bede-lau/Morpheus) — **Your room. A robot's training ground.** We're building the simulation layer for a future where your robot works out of the box.
+> [**Morpheus**](https://github.com/bede-lau/Morpheus) : **Your room. A robot's training ground.** We're building the simulation layer for a future where your robot works out of the box.
 
 ## Featured work
 
