@@ -4,10 +4,13 @@ AI student at the **University of Bristol**. I build products end to end, from d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mattlo0546-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattlo0546/)
 
+> 🏆 **1st place — OpenAI DevDay Exchange Community Hackathon, London.** Built [**Morpheus**](https://github.com/bede-lau/Morpheus) with my team at the event, which drew **1,000+ applicants**.
+
 ## Featured work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Morpheus**](https://github.com/bede-lau/Morpheus) | Turns room captures into interactive robot-rehearsal environments: Gaussian splats, collision geometry, SimReady object matching, and planned household-task rollouts to compare which robots fit the space. **1st place at the OpenAI DevDay Exchange Community Hackathon, London.** | TypeScript · React · Three.js · Python · MuJoCo · OpenAI · NVIDIA SimReady |
 | [**Skill Issue**](https://github.com/Mattlo0546/skill-issue) | Prompt companion for Codex: knowledge-grounded ghost text and clarifying edits as you type, a retrieval router over your skills catalog, and one-click handoff via an MCP plugin. Also ships as a ChatGPT Chrome extension. *Built at OxHack 2026 with [Bede Lau](https://github.com/bede-lau) (EE, King's College London) and [ShengDong](https://github.com/Dongsheng600) (CS, Oxford).* | Python · FastAPI · Gemini · Tiger Postgres/pgvector · Snowflake · MCP |
 | [**Scene2Real**](https://github.com/bede-lau/Scene2Real) | Turns warehouse-fire footage from 1–3 camera views into a measured robot rehearsal: Cosmos fire evidence, operator confirmation, a constrained plan, then a MuJoCo simulation with metrics. *Built at the VAST Builders Challenge, London 2026, with [Bede Lau](https://github.com/bede-lau) (EE, King's College London), Alvin Bong (CS, Edinburgh) and Nathan Lim (EE & CS, Edinburgh).* | Python · NVIDIA Cosmos · MuJoCo · OpenAI · CoreWeave |
 | [**Biosphere**](https://github.com/Mattlo0546/biosphere-showcase) | macOS revision app for the IB Diploma, in daily use by a real student: builds timed PDFs of past-paper questions for any topic, sends them to iPad, reads the handwritten answers back and has a Claude Code tutor mark them, then schedules reviews with SM-2 spaced repetition. | Swift · SwiftUI · PDFKit · Python · Claude Code CLI |
